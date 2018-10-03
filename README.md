@@ -1,4 +1,4 @@
-#Terraform on Azure
+**Terraform on Azure**
 
 Terraform is a first class citizen on Azure, and if you're already familiar with it, or looking for a great infra-as-code solution for Azure, Terraform may be just right.
 
